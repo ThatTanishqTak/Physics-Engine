@@ -13,7 +13,7 @@ namespace Trinity
     {
         std::string Title = "Trinity-Application";
 
-        uint32_t Width = 1280;
+        uint32_t Width = 1080;
         uint32_t Height = 720;
 
         bool Resizable = true;
